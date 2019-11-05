@@ -1,14 +1,13 @@
 ---
 layout: post
-image:  assets/images/2019-10-24-cloud-native-prague.jpg
-title: Where is my cache? Architectural patterns for caching microservices
-conference: Cloud Native Prague
-conference-link: https://www.meetup.com/Cloud-Native-Prague/
-place: Prague, Czechia
-date: 2019-10-24
+image:  assets/images/2019-11-12-multi-cloud-tel-aviv.jpg
+title: Where is my cache? Architectural patterns for caching microservices by example
+conference: Multi-Cloud Engineering | Israel
+conference-link: https://www.meetup.com/multicloud/
+place: Tel Aviv, Israel
+date: 2019-11-12
 tags: [Talk]
-event: https://www.meetup.com/Cloud-Native-Prague/events/265469344/
-slides: https://www.slideshare.net/RafaLeszko/where-is-my-cache-architectural-patterns-for-caching-microservices-by-example
+event: https://www.meetup.com/multicloud/events/264745514/
 ---
 
 Everybody needs caching! However, where exactly to place it in your system? Inside your application or as a layer in front of it? Inside or outside the container? In the era of Cloud Native and Microservices these questions get even more complicated. In this session I'll present different architectural patterns for distributed caching: Embedded, Client-Server, (Kubernetes) Sidecar, and Reverse HTTP Proxy Caching.
