@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-151643727-1'
 include: ["_pages"]
-permalink: /:title
+permalink: /:year/:month/:day/:title
 
 # Plugins
 plugins:
