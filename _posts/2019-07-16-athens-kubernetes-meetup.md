@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-07-16-athens-kubernetes-meetup.jpg
+image:  assets/images/posts/2019-07-16-athens-kubernetes-meetup.jpg
 title: Stream Processing in the Cloud
 conference: Athens Kubernetes Meetup
 conference-link: https://www.meetup.com/Athens-Kubernetes-Meetup/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-10-05-voxxed-days-ticino.jpg
+image:  assets/images/posts/2019-10-05-voxxed-days-ticino.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: Voxxed Days Ticino
 conference-link: https://voxxeddays.com/ticino/

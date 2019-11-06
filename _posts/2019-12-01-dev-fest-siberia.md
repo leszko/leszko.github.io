@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-12-01-dev-fest-siberia.jpg
+image:  assets/images/posts/2019-12-01-dev-fest-siberia.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: DevFest Siberia 2019
 conference-link: https://gdg-siberia.com/

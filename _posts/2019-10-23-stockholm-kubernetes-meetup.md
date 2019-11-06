@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-10-23-stockholm-kubernetes-meetup.jpg
+image:  assets/images/posts/2019-10-23-stockholm-kubernetes-meetup.jpg
 title: Where is my cache?
 conference: Stockholm Kubernetes and Cloud Native Computing
 conference-link: https://www.meetup.com/sthlm-k8s/

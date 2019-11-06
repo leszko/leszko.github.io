@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2018-11-19-voxxed-days-thessaloniki.jpg
+image:  assets/images/posts/2018-11-19-voxxed-days-thessaloniki.jpg
 title: Stream Processing with Hazelcast Jet
 conference: Voxxed Days Thessaloniki
 conference-link: https://voxxeddays.com/thessaloniki2018/

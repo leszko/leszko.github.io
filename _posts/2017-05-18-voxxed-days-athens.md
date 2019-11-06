@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2017-05-18-voxxed-days-athens.jpg
+image:  assets/images/posts/2017-05-18-voxxed-days-athens.jpg
 title: 'Continuous Delivery: Jenkins, Docker and Spring Boot'
 conference: Voxxed Days Athens
 conference-link: https://voxxeddays.com/athens17/

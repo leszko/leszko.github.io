@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-09-13-devopsdays-india.jpg
+image:  assets/images/posts/2019-09-13-devopsdays-india.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: DevOpsDays India
 conference-link: https://devopsdaysindia.org/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-10-24-cloud-native-prague.jpg
+image:  assets/images/posts/2019-10-24-cloud-native-prague.jpg
 title: Where is my cache? Architectural patterns for caching microservices
 conference: Cloud Native Prague
 conference-link: https://www.meetup.com/Cloud-Native-Prague/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2016-11-02-devoxx-morocco.jpg
+image:  assets/images/posts/2016-11-02-devoxx-morocco.jpg
 title: 'Continuous Delivery: Jenkins, Docker and Spring Boot'
 conference: Devoxx Morocco
 conference-link: https://devoxx.ma/

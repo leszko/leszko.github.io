@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-10-31-cloud-native-sofia-bulgaria.jpg
+image:  assets/images/posts/2019-10-31-cloud-native-sofia-bulgaria.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: Kubernetes & Cloud Native Computing Bulgaria
 conference-link: https://www.meetup.com/Cloud-Native-Computing-Bulgaria/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-11-14-in-memory-computing-summit.jpg
+image:  assets/images/posts/2019-11-14-in-memory-computing-summit.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: In-Memory Computing Summit North America
 conference-link: https://www.imcsummit.org/2019/us/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2017-03-10-voxxed-days-bucharest.jpg
+image:  assets/images/posts/2017-03-10-voxxed-days-bucharest.jpg
 title: 'Continuous Delivery: Jenkins, Docker and Spring Boot'
 conference: Voxxed Days Bucharest
 conference-link: https://romania.voxxeddays.com/bucharest/2017-03-10

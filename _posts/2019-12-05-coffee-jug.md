@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-12-05-coffee-jug.jpg
+image:  assets/images/posts/2019-12-05-coffee-jug.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: CoffeeJug
 conference-link: https://www.coffeejug.org/

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2016-04-21-jug-krakow.jpg
+image:  assets/images/posts/2016-04-21-jug-krakow.jpg
 title: 'Java 9: Upcoming features'
 conference: Polish Java User Group
 conference-link: https://www.meetup.com/Polish-Java-User-Group/

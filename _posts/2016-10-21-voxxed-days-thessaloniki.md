@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2016-10-21-voxxed-days-thessaloniki.jpg
+image:  assets/images/posts/2016-10-21-voxxed-days-thessaloniki.jpg
 title: 'Continuous Delivery: Jenkins, Docker and Spring Boot'
 conference: Voxxed Days Thessaloniki
 conference-link: https://voxxeddays.com/thessaloniki16/

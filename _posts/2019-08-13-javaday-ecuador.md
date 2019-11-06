@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2019-08-13-javaday-ecuador.jpg
+image:  assets/images/posts/2019-08-13-javaday-ecuador.jpg
 title: Where is my cache? Architectural patterns for caching microservices by example
 conference: JavaDay Ecuador
 conference-link: https://www.javaday.ec/

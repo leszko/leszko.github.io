@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/2017-11-22-voxxed-days-cluj-napoca.jpg
+image:  assets/images/posts/2017-11-22-voxxed-days-cluj-napoca.jpg
 title: Mutation testing
 conference: Voxxed Days Cluj-Napoca
 conference-link: https://romania.voxxeddays.com/cluj-napoca/2017-11-22/
