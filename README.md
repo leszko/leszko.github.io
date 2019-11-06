@@ -1,1 +1,1 @@
-# Rafał Leszko Home Page
+# Rafał Leszko
