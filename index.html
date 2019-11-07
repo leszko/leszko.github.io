@@ -5,14 +5,40 @@ title: Home
 
 <!-- Posts Index
 ================================================== -->
+{% assign upcoming = false %}
+
+    {% for post in site.posts %}
+        {% if post.upcoming == true %}
+            {% if upcoming != true %}
+            {% assign upcoming = true %}
+            <section class="featured-posts">
+                <div class="section-title">
+                    <h2><span>Upcoming Talks</span></h2>
+                </div>
+                <div class="row listrecent">
+            {% endif %}
+            
+            {% include postbox.html %}
+        {% endif %}
+    {% endfor %}
+
+    {% if upcoming == true %}
+</div>
+</section>
+    {% endif %}
+
+
+
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>My Talks</span></h2>
+        <h2><span>Talks</span></h2>
     </div>
 
     <div class="row listrecent">
         {% for post in site.posts %}
-        {% include postbox.html %}
+            {% if post.upcoming != true %}
+                {% include postbox.html %}
+            {% endif %}
         {% endfor %}
     </div>
 </section>

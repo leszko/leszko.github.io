@@ -8,6 +8,7 @@ baseurl:
 google_analytics: 'UA-151643727-1'
 include: ["_pages"]
 permalink: /:year/:month/:day/:title
+future: true
 
 # Plugins
 plugins:

@@ -8,6 +8,7 @@ place: San Francisco, United States
 date: 2019-11-14
 tags: [Talk]
 event: https://www.imcsummit.org/2019/us/session/where-my-cache-architectural-patterns-caching-microservices-example
+upcoming: true
 ---
 
 Everybody knows that we need a cache, but where exactly to put it? Inside your application or as a layer in front of it? In the container or outside the container? In the era of Cloud and Microservices these questions get even more complicated. In this session, I'll present different architectural patterns for distributed caching: Embedded, Client-Server, (Kubernetes) Sidecar, and Proxy Caching.
