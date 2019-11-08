@@ -30,12 +30,12 @@
         <div class="row mx-1 pb-1">
             {% if post.video %}
             <div class="col-6">
-                <a href="{{ post.video }}"><img src="assets/images/video.png"></a>
+                <a target="_blank" href="{{ post.video }}"><img src="assets/images/video.png"></a>
             </div>
             {% endif %}
             {% if post.slides %}
             <div class="col-6">
-                    <a href="{{ post.slides }}"><img src="assets/images/slides.png"></a>
+                <a target="_blank" href="{{ post.slides }}"><img src="assets/images/slides.png"></a>
             </div>
             {% endif %}
         </div>
