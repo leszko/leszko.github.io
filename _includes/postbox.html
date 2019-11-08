@@ -27,6 +27,18 @@
             </h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
+        <div class="row px-4 pb-1">
+            {% if post.video %}
+            <div class="col-6">
+                <a href="{{ post.video }}"><img src="assets/images/video.png"></a>
+            </div>
+            {% endif %}
+            {% if post.slides %}
+            <div class="col-6">
+                    <a href="{{ post.slides }}"><img src="assets/images/slides.png"></a>
+            </div>
+            {% endif %}
+        </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {% if post.conference %}
