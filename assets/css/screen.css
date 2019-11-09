@@ -145,6 +145,25 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    margin-bottom: 10px;
+}
+
+.listfeaturedtag h4.card-subtitle,
+.listrecent h4.card-subtitle {
+    color: rgba(0, 0, 0, .55);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 400;
+    padding: 1px;
+}
+
+.listfeaturedtag h4.card-talk-title,
+.listrecent h4.card-talk-title {
+    color: rgba(0, 0, 0);
+    font-size: 1.0rem;
+    line-height: 1.4;
+    font-weight: 600;
+    padding-top: 0;
 }
 
 .listfeaturedtag h4.card-text,
@@ -153,6 +172,18 @@ section.recent-posts {
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
+}
+
+.listrecent .card-conference {
+    padding-bottom: 0;
+}
+
+.listrecent .card-talk {
+    padding-top: 5px;
+}
+
+.listrecent .card-footer-links {
+    margin-bottom: 20px;
 }
 
 .featured-box-img-cover {
