@@ -38,7 +38,7 @@
             </h4>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
-        {% if post.video || post.slides %}
+        {% if post.video or post.slides %}
         <div class="row mx-1 pb-1 card-footer-links">
             {% if post.video %}
             <div class="col-6">
