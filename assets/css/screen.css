@@ -163,7 +163,7 @@ section.recent-posts {
     font-size: 1.0rem;
     line-height: 1.4;
     font-weight: 600;
-    padding-top: 0;
+    padding-top: 10px;
 }
 
 .listfeaturedtag h4.card-text,
@@ -172,14 +172,6 @@ section.recent-posts {
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
-}
-
-.listrecent .card-conference {
-    padding-bottom: 0;
-}
-
-.listrecent .card-talk {
-    padding-top: 5px;
 }
 
 .listrecent .card-footer-links {

@@ -16,7 +16,7 @@
                 {% endif %}
             </a>
         </div>
-        <div class="card-body card-conference">
+        <div class="card-body">
             {% if post.conference-link %}
             <a class="text-dark" target="_blank" href="{{ post.conference-link }}">
             {% endif %}
@@ -26,8 +26,6 @@
             {% if post.conference-link %}
             </a>
             {% endif %}
-        </div>
-        <div class="card-body card-talk">
             <h4 class="card-talk-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {% if post.rating %}
