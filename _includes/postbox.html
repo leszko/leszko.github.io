@@ -17,13 +17,13 @@
             </a>
         </div>
         <div class="card-body">
-            {% if post.conference-link %}
-            <a class="text-dark" target="_blank" href="{{ post.conference-link }}">
+            {% if post.event %}
+            <a class="text-dark" target="_blank" href="{{ post.event }}">
             {% endif %}
                 <h2 class="card-title">{{ post.conference }}</h2>
                 <h4 class="card-subtitle"><span>{{ post.place }}</span></h4>
                 <h4 class="card-subtitle">{{ post.date | date_to_string }}</h4>
-            {% if post.conference-link %}
+            {% if post.event %}
             </a>
             {% endif %}
             <h4 class="card-talk-title">
