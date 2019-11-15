@@ -20,7 +20,11 @@
             {% if post.event %}
             <a class="text-dark" target="_blank" href="{{ post.event }}">
             {% endif %}
+                {% if post.cancelled %}
+                <h2 class="card-title cancelled">{{ post.conference }}</h2>
+                {% else %}
                 <h2 class="card-title">{{ post.conference }}</h2>
+                {% endif %}
                 <h4 class="card-subtitle"><span>{{ post.place }}</span></h4>
                 <h4 class="card-subtitle">{{ post.date | date_to_string }}</h4>
             {% if post.event %}

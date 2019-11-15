@@ -148,6 +148,11 @@ section.recent-posts {
     margin-bottom: 10px;
 }
 
+.listfeaturedtag h2.cancelled,
+.listrecent h2.cancelled {
+    text-decoration: line-through;
+}
+
 .listfeaturedtag h4.card-subtitle,
 .listrecent h4.card-subtitle {
     color: rgba(0, 0, 0, .55);
