@@ -2,7 +2,7 @@
 layout: post
 image:  assets/images/posts/2016-12-03-kariera-it-krakow.jpg
 title: 'Java 9: Upcoming features'
-conference: KARIERA IT | KRAKÓW 03.12.2016
+conference: KARIERA IT
 conference-link: https://careercon.pl/en/konferencja/kariera-it-krakow-03-12-2016
 place: Kraków, Poland
 date: 2016-12-03
