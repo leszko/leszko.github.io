@@ -18,7 +18,7 @@ title: Home
                 <div class="row listrecent">
             {% endif %}
             
-            {% include postbox.html %}
+            {% include conference_postbox.html %}
         {% endif %}
     {% endfor %}
 
@@ -37,7 +37,7 @@ title: Home
     <div class="row listrecent">
         {% for post in site.categories.conference %}
             {% if post.upcoming != true %}
-                {% include postbox.html %}
+                {% include conference_postbox.html %}
             {% endif %}
         {% endfor %}
     </div>
