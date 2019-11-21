@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2018-11-30-how-to-scale-hazelcast.png
+image:  assets/images/blog/2018-11-30-how-to-scale-hazelcast.jpg
 title: How to Scale Hazelcast IMDG on Kubernetes
 source: https://hazelcast.com/blog/how-to-scale-hazelcast-imdg-on-kubernetes/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-06-25-rolling-upgrade-on-kubernetes.png
+image:  assets/images/blog/2019-06-25-rolling-upgrade-on-kubernetes.jpg
 title: Rolling Upgrade Hazelcast IMDG on Kubernetes
 source: https://hazelcast.com/blog/rolling-upgrade-hazelcast-imdg-on-kubernetes/
 ---

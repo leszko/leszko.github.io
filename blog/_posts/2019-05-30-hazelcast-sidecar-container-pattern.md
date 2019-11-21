@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-05-30-hazelcast-sidecar-container-pattern.png
+image:  assets/images/blog/2019-05-30-hazelcast-sidecar-container-pattern.jpg
 title: Hazelcast Sidecar Container Pattern
 source: https://hazelcast.com/blog/hazelcast-sidecar-container-pattern/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-04-24-how-to-use-hazelcast-with-eureka.png
+image:  assets/images/blog/2019-04-24-how-to-use-hazelcast-with-eureka.jpg
 title: How to Use Hazelcast Auto-Discovery with Eureka
 source: https://hazelcast.com/blog/hazelcast-auto-discovery-with-eureka/
 ---

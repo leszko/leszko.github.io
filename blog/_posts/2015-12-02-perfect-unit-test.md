@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2015-12-02-perfect-unit-test.png
+image:  assets/images/blog/2015-12-02-perfect-unit-test.jpg
 title: Perfect Unit Test
 source: https://tech.zooplus.com/perfect-unit-test/
 ---

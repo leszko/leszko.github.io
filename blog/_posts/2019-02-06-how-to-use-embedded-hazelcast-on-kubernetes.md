@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-02-06-how-to-use-embedded-hazelcast-on-kubernetes.png
+image:  assets/images/blog/2019-02-06-how-to-use-embedded-hazelcast-on-kubernetes.jpg
 title: How to Use Embedded Hazelcast on Kubernetes
 source: https://hazelcast.com/blog/how-to-use-embedded-hazelcast-on-kubernetes/
 ---

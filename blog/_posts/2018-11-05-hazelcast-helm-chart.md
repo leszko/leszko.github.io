@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2018-11-05-hazelcast-helm-chart.png
+image:  assets/images/blog/2018-11-05-hazelcast-helm-chart.jpg
 title: Hazelcast Helm Chart
 source: https://hazelcast.com/blog/hazelcast-helm-chart/
 ---

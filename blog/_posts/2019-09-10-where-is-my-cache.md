@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-09-10-where-is-my-cache.png
+image:  assets/images/blog/2019-09-10-where-is-my-cache.jpg
 title: Where Is My Cache? Architectural Patterns for Caching Microservices
 source: https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/
 ---
