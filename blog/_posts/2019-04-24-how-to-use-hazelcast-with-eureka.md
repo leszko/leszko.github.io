@@ -3,6 +3,7 @@ layout: post
 image:  assets/images/blog/2019-04-24-how-to-use-hazelcast-with-eureka.jpg
 title: How to Use Hazelcast Auto-Discovery with Eureka
 source: https://hazelcast.com/blog/hazelcast-auto-discovery-with-eureka/
+dzone: https://dzone.com/articles/how-to-use-hazelcast-auto-discovery-with-eureka
 ---
 
 Hazelcast IMDG supports auto-discovery for many different environments. Since we introduced the generic discovery SPI, a lot of plugins were developed so you can use Hazelcast seamlessly on Kubernetes, AWS, Azure, GCP, and more. Should you need a custom plugin, you are also able to create your own.
