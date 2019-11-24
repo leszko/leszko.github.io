@@ -37,11 +37,17 @@
             </h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">{{ post.date | date_to_string }}</span>
-                </span>
+        <div class="row mx-1 pb-1 card-footer-links">
+                <div class="col-6">
+                    <div class="wrapfooter date-card-footer-links">
+                        <span class="post-date">{{ post.date | date_to_string }}</span>
+                    </div>
+                </div>
+            {% if post.dzone %}
+            <div class="col-6">
+                <a target="_blank" href="{{ post.dzone }}"><img src="assets/images/dzone.png"></a>
             </div>
+            {% endif %}
         </div>
     </div>
 </div>

@@ -41,7 +41,7 @@
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
         {% if post.video or post.slides %}
-        <div class="row mx-1 pb-1 card-footer-links">
+        <div class="row mx-1 pb-1 conference-card-footer-links">
             {% if post.video %}
             <div class="col-6">
                 <a target="_blank" href="{{ post.video }}"><img src="assets/images/video.png"></a>

@@ -179,8 +179,18 @@ section.recent-posts {
     font-weight: 400;
 }
 
-.listrecent .card-footer-links {
+.listrecent .conference-card-footer-links {
     margin-bottom: 20px;
+}
+
+.listrecent .card-footer-links {
+    margin-bottom: 10px;
+    height: 50px;
+}
+
+.listrecent .date-card-footer-links {
+    position: absolute;
+    bottom: 0px;
 }
 
 .featured-box-img-cover {
