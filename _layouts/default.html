@@ -89,6 +89,14 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a>
                 </li>
 
+                {% if page.url == "/books" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/books">Books</a>
+                </li>
+
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://twitter.com/RafalLeszko"><i class="fab fa-twitter"></i></a>
                 </li>
