@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2019-12-16-helm3-five-improvements.jpg
+image:  assets/images/blog/2019-12-19-helm3-five-improvements.jpg
 title: "Helm 3: Top Five Improvements"
 ---
 
@@ -10,7 +10,7 @@ title: "Helm 3: Top Five Improvements"
 
 Helm finally **got rid of its server component, Tiller. Now, it's completely agentless**. Tiller was this small application running on Kubernetes that listened for Helm commands and handled the real work of setting up Kubernetes resources.
 
-![No Tiller](/assets/images/blog/2019-12-16-helm3-five-improvements/no-tiller.jpg)
+![No Tiller](/assets/images/blog/2019-12-19-helm3-five-improvements/no-tiller.jpg)
 
 This change is definitely **the biggest improvement in Helm 3**. Why was Tiller an issue? First of all, Helm should be perceived only as a templeting mechanism over Kubernetes configurations. So why the heck would you need some agent running on your server?!?
 
