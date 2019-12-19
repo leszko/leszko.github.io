@@ -12,7 +12,7 @@ Helm finally **got rid of its server component, Tiller. Now, it's completely age
 
 ![No Tiller](/assets/images/blog/2019-12-19-helm3-five-improvements/no-tiller.jpg)
 
-This change is definitely **the biggest improvement in Helm 3**. Why was Tiller an issue? First of all, Helm should be perceived only as a templeting mechanism over Kubernetes configurations. So why the heck would you need some agent running on your server?!?
+This change is definitely **the biggest improvement in Helm 3**. Why was Tiller an issue? First of all, Helm should be perceived only as a templating mechanism over Kubernetes configurations. So why the heck would you need some agent running on your server?!?
 
 Tiller was also an issue, because **it required `cluster-admin` ClusterRole for its creation**. So, let's say you want to run your Helm application on a Kubernetes cluster started in Google Cloud Platform. You start a new GKE cluster, you want to initialize Helm with `helm init`, and boom... it fails. That happens because, by default, you don't have admin rights assigned to your `kubectl` context. Now you need to google for the magic command that assigns you admin rights and then, at this point, you already start wondering if Helm was really such a good choice.
 
@@ -27,7 +27,7 @@ Helm 3 is what it should always be, **just a tool to perform operations on Kuber
 
 ### 2. Distributed Repositories & Helm Hub
 
-Helm command can install charts from remote repositories. Before Helm 3, **it always used the predefined [central repository](https://github.com/helm/charts)**, but you could also add other repositories. From now on, Helm moved its **repository model from centralized to distributed**. That means 2 critial changes:
+Helm command can install charts from remote repositories. Before Helm 3, **it always used the predefined [central repository](https://github.com/helm/charts)**, but you could also add other repositories. From now on, Helm moved its **repository model from centralized to distributed**. That means 2 critical changes:
 - Predefined central repository was removed
 - [Helm Hub](https://hub.helm.sh/) (platform for discovering distributed chart repositories) was added to `helm search`
 
@@ -53,15 +53,15 @@ $ helm3 search hub hazelcast
 
 The command above lists all distributed repositories registered in [Helm Hub](https://hub.helm.sh/) which contains "hazelcast" in the chart name.
 
-Let me ask you an interesting question. **Is removing a central repository a progress or a regress?** There are two perspectives. The first one is what it all means for chart maintainers. For example, we maintain [Hazelcast Helm charts](https://github.com/hazelcast/charts) and each change meant propagating the same change to the central repostiory. This additional effort resulted in a fact that **a lot of Helm charts were not well maintained in the central repository**. The situation is similar to what we all experience with the Ubuntu/Debian package repositories. You can use the default repository, but it usually contains old package versions.
+Let me ask you an interesting question. **Is removing a central repository a progress or a regress?** There are two perspectives. The first one is what it all means for chart maintainers. For example, we maintain [Hazelcast Helm charts](https://github.com/hazelcast/charts) and each change meant propagating the same change to the central repository. This additional effort resulted in a fact that **a lot of Helm charts were not well maintained in the central repository**. The situation is similar to what we all experience with the Ubuntu/Debian package repositories. You can use the default repository, but it usually contains old package versions.
 
-The second viewpoint is the perspective of chart's users. For them, it's actually **slighly more difficult to install a chart now**, but on the other hand, they can be sure that they **install the up-to-date chart from the main repository**.
+The second viewpoint is the perspective of chart's users. For them, it's actually **slightly more difficult to install a chart now**, but on the other hand, they can be sure that they **install the up-to-date chart from the main repository**.
 
 ### 3. JSON Schema Validation
 
 Starting from Helm 3, **chart maintainer can define [JSON Schema for input values](https://helm.sh/docs/topics/charts/#schema-files)**. This is an important improvement, because so far you could put anything you wanted in `values.yaml` and the installation may have ended up with **incorrect results or some hard-to-read error messages**.
 
-For example, let's say you'd give a string instead of a number for the `port` paramter. Then, you'd receive the following error.
+For example, let's say you'd give a string instead of a number for the `port` parameter. Then, you'd receive the following error.
 
 ```nolinenumbers
 $ helm2 install --name my-release --set service.port=string-name hazelcast/hazelcast
@@ -74,7 +74,7 @@ context ...|fault"},"spec":{"ports":[{"name":"hzport","port":"wrong-name","proto
 
 You have to admit it's hard to analyze it and reason about the issue.
 
-What's more, Helm 3 added by default the **validation against OpenAPI for Kubernetes objects**, which means that requests sent to Kubernets API are checked if they are really correct. This is a great benefit, especially for chart maintainers. We already [discovered and fixed an issue we had in our Hazelcast Helm chart](https://github.com/hazelcast/charts/pull/82).
+What's more, Helm 3 added by default the **validation against OpenAPI for Kubernetes objects**, which means that requests sent to Kubernetes API are checked if they are really correct. This is a great benefit, especially for chart maintainers. We already [discovered and fixed an issue we had in our Hazelcast Helm chart](https://github.com/hazelcast/charts/pull/82).
 
 ### 4. Helm Test
 
@@ -87,9 +87,9 @@ I know that, after all, you could live with the old testing style and just use P
 
 ### 5. Command-line Syntax
 
-Last but not least, Helm command syntax changed a little bit. From the good side, in my opinion, **all changes are for better**. From the bad side, they are **not backwards-comaptible**, so now when writing steps of how to install something using Helm, you always need to explicitely mention if the given command is for Helm 2 or for Helm 3!
+Last but not least, Helm command syntax changed a little bit. From the good side, in my opinion, **all changes are for better**. From the bad side, they are **not backwards-compatible**, so now when writing steps of how to install something using Helm, you always need to explicitly mention if the given command is for Helm 2 or for Helm 3!
 
-For example, starting with `helm install`. Now, **the release name is a mandatory parameter**, while in Helm 2 you could skip it and the name would be autogenerated. To achieve the same in Helm 3, you need to add the parameter `--generate-name`. So, the standard installation using Helm 2 looked as follows:
+For example, starting with `helm install`. Now, **the release name is a mandatory parameter**, while in Helm 2 you could skip it and the name would be auto-generated. To achieve the same in Helm 3, you need to add the parameter `--generate-name`. So, the standard installation using Helm 2 looked as follows:
 
 ```nolinenumbers
 $ helm2 install --name my-release hazelcast/hazelcast
