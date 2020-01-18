@@ -2,6 +2,7 @@
 layout: post
 image:  assets/images/blog/2019-12-19-helm3-five-improvements.jpg
 title: "Helm 3: Top Five Improvements"
+dzone: https://dzone.com/articles/helm-3-top-five-improvements
 ---
 
 [Helm](https://helm.sh/) is a package manager for Kubernetes. One month ago the third major version was released and quite a few interesting changes took place. In this blog post, let me walk you through the five of them which I find the most crucial.
