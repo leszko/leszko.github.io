@@ -121,6 +121,11 @@ section.recent-posts {
     overflow: hidden;
 }
 
+.hobby-maxthumb {
+    height: 130px;
+    overflow: hidden;
+}
+
 .listfeaturedtag .card,
 .card-footer {
     border: 0;

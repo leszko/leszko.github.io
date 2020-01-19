@@ -26,3 +26,29 @@ permalink: /me
 <i class="fab fa-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/RafalLeszko" class="article-post" style="margin-left: 10px;">@RafalLeszko</a></i>
 <i class="fab fa-github" style="margin-right: 20px;"><a target="_blank" href="https://github.com/leszko" class="article-post" style="margin-left: 10px;">leszko</a></i>
 <i class="fab fa-linkedin" style="margin-right: 20px;"><a target="_blank" href="https://www.linkedin.com/in/rafal-leszko/" class="article-post" style="margin-left: 10px;">rafal-leszko</a></i>
+
+<p><br/><br/><br/></p>
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Running</span></h2>
+    </div>
+
+    <div class="row listrecent">
+        {% for post in site.categories.running %}
+            {% include hobby_postbox.html %}
+        {% endfor %}
+    </div>
+</section>
+
+<!-- <section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Mountaineering</span></h2>
+    </div>
+
+    <div class="row listrecent">
+        {% for post in site.categories.mountaineering %}
+            {% include hobby_postbox.html %}
+        {% endfor %}
+    </div>
+</section> -->
