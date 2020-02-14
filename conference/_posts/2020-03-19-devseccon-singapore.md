@@ -8,6 +8,7 @@ place: Singapore
 tags: [Talk]
 event: https://www.devseccon.com/singapore-2020/
 upcoming: true
+cancelled: true
 ---
 
 How should the modern distributed data processing look like? It should definitely be fast, real-time, and so easy to use that you could understand its basics in less than 1 hour! In this hands-on session I'll present the steps to use stream processing in Kubernetes.
