@@ -1,12 +1,12 @@
 ---
 layout: post
-image:  assets/images/conference/2020-04-01-kubecon.jpg
-title:  Architectural Caching Patterns for Kubernetes
-conference: KubeCon + CloudNativeCon Europe
-conference-link: https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/
-place: Amsterdam, Netherlands
+image:  assets/images/conference/2020-06-23-container-days.jpg
+title: Architectural Caching Patterns for Kubernetes
+conference: Container Days
+conference-link: https://www.containerdays.io/
+place: Hamburg, Germany
 tags: [Talk]
-event: https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/
+event: https://www.containerdays.io/
 upcoming: true
 ---
 
