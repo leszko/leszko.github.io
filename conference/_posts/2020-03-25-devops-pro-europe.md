@@ -4,7 +4,7 @@ image:  assets/images/conference/2020-03-25-devops-pro-europe.jpg
 title: "5 Levels of High Availability: from Multi-instance to Hybrid Cloud"
 conference: DevOps Pro Europe
 conference-link: https://devopspro.lt/
-place: Vilnius, Lithuania
+place: Vilnius, Lithuania (moved online)
 date: 2020-03-25
 tags: [Talk]
 event: https://devopspro.lt/
