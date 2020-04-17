@@ -4,7 +4,7 @@ image:  assets/images/conference/2020-03-25-devops-pro-europe.jpg
 title:  Where is my cache? Architectural patterns for caching microservices
 conference: DevOps Pro Europe
 conference-link: https://devopspro.lt/
-place: Vilnius, Lithuania
+place: Vilnius, Lithuania (moved online)
 date: 2020-03-25
 tags: [Talk]
 event: https://devopspro.lt/
