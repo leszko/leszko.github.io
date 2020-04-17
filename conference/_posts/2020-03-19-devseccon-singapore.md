@@ -7,7 +7,6 @@ conference-link: https://www.devseccon.com/singapore-2020/
 place: Singapore
 tags: [Talk]
 event: https://www.devseccon.com/singapore-2020/
-upcoming: true
 cancelled: true
 ---
 

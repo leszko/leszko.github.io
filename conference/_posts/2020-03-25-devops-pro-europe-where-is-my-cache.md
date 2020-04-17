@@ -8,7 +8,6 @@ place: Vilnius, Lithuania
 date: 2020-03-25
 tags: [Talk]
 event: https://devopspro.lt/
-upcoming: true
 ---
 
 Everybody needs caching! However, where exactly to place it in your system? Inside your application or as a layer in front of it? Inside or outside the container? In the era of Cloud Native and Microservices these questions get even more complicated. In this session I'll present different architectural patterns for distributed caching: Embedded, Client-Server, (Kubernetes) Sidecar, and Reverse HTTP Proxy Caching.

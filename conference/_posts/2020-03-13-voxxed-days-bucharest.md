@@ -7,7 +7,6 @@ conference-link: https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-
 place: Bucharest, Romania
 tags: [Talk]
 event: https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2020/
-upcoming: true
 cancelled: true
 ---
 

@@ -8,7 +8,6 @@ place: Broomfield, CO, United States
 date: 2020-03-27
 tags: [Talk]
 event: https://www.devdotnext.com/
-upcoming: true
 cancelled: true
 ---
 

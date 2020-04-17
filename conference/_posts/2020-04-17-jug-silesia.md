@@ -7,7 +7,6 @@ conference-link: https://www.meetup.com/Silesia-JUG/
 place: Katowice, Poland
 tags: [Talk]
 event: https://www.meetup.com/Silesia-JUG/
-upcoming: true
 cancelled: true
 ---
 
