@@ -7,10 +7,3 @@ place: Austria
 
 ![Me](/assets/images/mountaineering/2016-08-08-grossglockner-me.jpg)
 
-// Monte Rosa
-// Duffourspitze
-// Mont Blanc
-// Bishorn
-// Nadelhorn
-// Kazbek
-// Damavand
