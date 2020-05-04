@@ -7,7 +7,6 @@ conference-link: https://devdays.lt/
 place: Vilnius, Lithuania
 tags: [Talk]
 event: https://devdays.lt/
-upcoming: true
 cancelled: true
 ---
 

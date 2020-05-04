@@ -7,7 +7,6 @@ conference-link: https://fsdc.fi/
 place: Helsinki, Finland
 tags: [Talk]
 event: https://fsdc.fi/
-upcoming: true
 cancelled: true
 ---
 
