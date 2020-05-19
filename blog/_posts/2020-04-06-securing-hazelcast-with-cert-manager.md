@@ -3,6 +3,7 @@ layout: post
 image:  assets/images/blog/2020-04-06-securing-hazelcast-with-cert-manager.jpg
 title: Securing Hazelcast with Cert-Manager
 source: https://hazelcast.com/blog/securing-hazelcast-with-cert-manager/
+dzone: https://dzone.com/articles/securing-hazelcast-with-cert-manager
 ---
 Cert-Manager became a standard way for issuing and rotating certificates in Kubernetes and OpenShift environments. Simple to install. Simple to use. Well integrated with Vault and other secret managers. No surprise it’s the way to go if you want to set up secure communication between your applications!
 
