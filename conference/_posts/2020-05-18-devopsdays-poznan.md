@@ -7,7 +7,6 @@ conference-link: https://devopsdays.org/events/2020-poznan/welcome/
 place: Poznań, Poland
 tags: [Talk]
 event: https://devopsdays.org/events/2020-poznan/welcome/
-upcoming: true
 cancelled: true
 ---
 

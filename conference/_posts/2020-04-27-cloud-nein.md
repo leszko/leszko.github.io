@@ -7,7 +7,6 @@ conference-link: https://cloudne.in/
 place: Berlin, Germany
 tags: [Talk]
 event: https://cloudne.in/
-upcoming: true
 cancelled: true
 ---
 
