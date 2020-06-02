@@ -7,7 +7,6 @@ conference-link: https://www.containerdays.io/
 place: Hamburg, Germany
 tags: [Talk, Workshop]
 event: https://www.containerdays.io/
-upcoming: true
 cancelled: true
 ---
 
