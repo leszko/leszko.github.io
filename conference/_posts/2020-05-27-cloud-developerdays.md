@@ -7,7 +7,6 @@ conference-link: https://cloud.developerdays.pl/
 place: Online
 tags: [Talk]
 event: https://cloud.developerdays.pl/
-upcoming: true
 ---
 
 Does running your application on multiple machines mean it's highly available? Technically yes, but the term HA is already more than that. Take Kubernetes installation, if you install it on AWS, it's not considered HA unless your master nodes are in different availability zones, not only on different machines. And actually, there is much more on that topic.
