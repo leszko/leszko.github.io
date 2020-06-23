@@ -189,6 +189,11 @@ section.recent-posts {
     margin-bottom: 20px;
 }
 
+.listrecent .conference-card-footer-links img {
+    width:100%;
+    max-width: 160px;
+}
+
 .listrecent .card-footer-links {
     margin-bottom: 10px;
     height: 50px;
