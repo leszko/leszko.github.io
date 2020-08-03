@@ -14,3 +14,19 @@ permalink: /videos
 
 #### Continuous Delivery: Jenkins Docker and Spring Boot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n5ooLjivHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+
+<div class="section-title">
+    <h2><span>Tutorial Videos</span></h2>
+</div>
+
+#### Caching with Spring Boot and Hazelcast
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cN8-4_Eka9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Spring Boot: Hazelcast for Session Replication
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Avh_qNgUpXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### How to Use Embedded Hazelcast on Kubernetes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mNjtZcJwQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### How to Set Up Hazelcast on AWS ECS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yQnrts0hfi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
