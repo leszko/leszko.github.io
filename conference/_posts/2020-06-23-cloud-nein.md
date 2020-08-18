@@ -4,7 +4,7 @@ image:  assets/images/conference/2020-06-23-cloud-nein.jpg
 title: Where is my cache? Architectural patterns for caching microservices
 conference: Cloud Nein
 conference-link: https://cloudne.in/
-place: Berlin, Germany
+place: Berlin, Germany (moved online)
 tags: [Talk]
 event: https://cloudne.in/
 slides: https://www.slideshare.net/RafaLeszko/where-is-my-cache-architectural-patterns-for-caching-microservices-by-example-234867081
