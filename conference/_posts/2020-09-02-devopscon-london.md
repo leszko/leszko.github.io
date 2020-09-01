@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/conference/2020-04-23-devopscon.jpg
+image:  assets/images/conference/2020-09-02-devopscon-london.jpg
 title: "5 Levels of High Availability: from Multi-instance to Hybrid Cloud"
 conference: DevOpsCon London
 conference-link: https://devopscon.io/london/
