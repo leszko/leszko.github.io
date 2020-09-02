@@ -12,3 +12,5 @@ place: Rajcza, Beskid Żywiecki
 
 ![Me](/assets/images/running/2020-08-08-chudy-wawrzyniec-me.jpg)
 
+![Me](/assets/images/running/2020-08-08-chudy-wawrzyniec-me-2.jpg)
+
