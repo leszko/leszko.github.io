@@ -7,7 +7,6 @@ conference-link: https://kubecologne.io/
 place: Cologne, Germany (moved online)
 tags: [Talk]
 event: https://kubecologne.io/
-upcoming: true
 cancelled: true
 ---
 
