@@ -7,6 +7,7 @@ conference-link: https://www.j4k.io/
 place: Bucharest, Romania (moved online)
 tags: [Talk]
 event: https://devfest.ro/
+video: https://youtu.be/LF13skRJ1-Q
 slides: https://www.slideshare.net/RafaLeszko/5-levels-of-high-availability-from-multiinstance-to-hybrid-cloud
 ---
 
