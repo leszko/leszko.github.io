@@ -7,7 +7,6 @@ conference-link: https://voxxeddays.com/minsk/
 place: Minsk, Belarus
 tags: [Talk]
 event: https://voxxeddays.com/minsk/
-upcoming: true
 cancelled: true
 ---
 
