@@ -3,6 +3,10 @@ layout: page
 title: Talk Videos
 permalink: /videos
 ---
+
+#### Build your Kubernetes Operator with the Right Tool
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTapESrAmLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Where is My Cache? Architectural Patterns for Caching Microservices by example
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FcIrXYJqOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
