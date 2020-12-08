@@ -10,6 +10,9 @@ permalink: /videos
 #### Where is My Cache? Architectural Patterns for Caching Microservices by example
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FcIrXYJqOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
+#### 5 Levels of High Availability: from Multi-instance to Hybrid Cloud
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btJueih7dps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Stream Processing with Hazelcast Jet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1DBhWU7bobE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
