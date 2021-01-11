@@ -6,7 +6,7 @@ conference: DevOps For Everyone
 conference-link: https://www.meetup.com/DevOps-For-Everyone/
 place: London, United Kingdom (online)
 tags: [Talk]
-event: https://www.meetup.com/DevOps-For-Everyone/
+event: https://www.meetup.com/DevOps-For-Everyone/events/275562820/
 upcoming: true
 ---
 
