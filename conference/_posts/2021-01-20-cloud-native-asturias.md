@@ -8,6 +8,7 @@ place: Online
 tags: [Talk]
 event: https://community.cncf.io/events/details/cncf-asturias-presents-cloud-native-asturias-jan21/#/
 slides: https://www2.slideshare.net/RafaLeszko/architectural-caching-patterns-for-kubernetes
+video: https://youtu.be/r7E68N1fqGY
 ---
 
 Kubernetes brings new ideas of how to organize the caching layer for your applications. You can still use the old-but-good client-server topology, but now there is much more than that. This session will start with the known distributed caching topologies: embedded, client-server, and cloud. Then, I'll present Kubernetes-only caching strategies, including:
