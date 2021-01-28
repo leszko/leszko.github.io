@@ -7,7 +7,7 @@ conference-link: https://www.meetup.com/DevOps-For-Everyone/
 place: London, United Kingdom (online)
 tags: [Talk]
 event: https://www.meetup.com/DevOps-For-Everyone/events/275562820/
-upcoming: true
+slides: https://www2.slideshare.net/RafaLeszko/build-your-operator-with-the-right-tool
 ---
 
 You want to build a Kubernetes Operator for your software. Which tool to choose? Operator SDK with Helm, Ansible, or Go? Or maybe start from scratch with Python, Java, or any other programming language? And what is the right phase in the Operator Capability/Maturity Model that you should provide?
