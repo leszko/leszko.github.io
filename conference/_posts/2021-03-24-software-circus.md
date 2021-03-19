@@ -6,7 +6,7 @@ conference: Software Circus
 conference-link: https://www.softwarecircus.io/
 place: Virtual
 tags: [Talk]
-event: https://www.softwarecircus.io/
+event: https://www.meetup.com/Software-Circus/events/276943375/
 upcoming: true
 ---
 
