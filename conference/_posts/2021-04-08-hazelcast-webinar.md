@@ -7,7 +7,7 @@ conference-link: https://hazelcast.com/resources/architectural-patterns-for-high
 place: Virtual
 tags: [Talk]
 event: https://hazelcast.com/resources/architectural-patterns-for-high-performance-microservices-in-kubernetes/
-upcoming: true
+slides: https://www.slideshare.net/RafaLeszko/architectural-patterns-for-high-performance-microservices-in-kubernetes
 ---
 
 Kubernetes brings new ideas on how to improve the performance of your microservices. You can use a cache or a distributed in-memory store and set them up with several different topologies: embedded, embedded distributed, client-server, cloud, sidecar, reverse proxy, and reverse-proxy sidecar.
