@@ -8,6 +8,7 @@ place: Virtual
 tags: [Talk]
 event: https://www.meetup.com/Kubernetes-Toronto/
 slides: https://www2.slideshare.net/RafaLeszko/architectural-caching-patterns-for-kubernetes-245118818
+video: https://youtu.be/AVuYkX1gA1w?t=747
 ---
 
 Kubernetes brings new ideas of how to organize the caching layer for your applications. You can still use the old-but-good client-server topology, but now there is much more than that. This session will start with the known distributed caching topologies: embedded, client-server, and cloud. Then, I'll present Kubernetes-only caching strategies, including:
