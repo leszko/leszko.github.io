@@ -4,7 +4,7 @@ image:  assets/images/conference/2021-05-12-devops-pro-europe.jpg
 title:  Build Your Kubernetes Operator with the Right Tool!
 conference: DevOps Pro Europe
 conference-link: https://devopspro.lt/
-place: Vilnius, Lithuania
+place: Vilnius, Lithuania (moved online)
 tags: [Talk]
 event: https://devopspro.lt/
 slides: https://www.slideshare.net/RafaLeszko/build-your-operator-with-the-right-tool

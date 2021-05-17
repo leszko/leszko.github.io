@@ -4,7 +4,7 @@ image:  assets/images/conference/2021-06-08-devdays-europe.jpg
 title: Where is my cache? Architectural patterns for caching microservices
 conference: DevDays Europe
 conference-link: https://devdays.lt/
-place: Vilnius, Lithuania
+place: Vilnius, Lithuania (moved online)
 tags: [Talk]
 event: https://devdays.lt/
 upcoming: true
