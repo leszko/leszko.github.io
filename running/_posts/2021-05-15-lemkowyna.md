@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/running/2021-05-15-lemkowyna.jpg
-title: Chudy Wawrzyniec<br/>(150+km, +/- 5784m)
+title: Łemkowyna Ultra-Trail<br/>(150+km, +/- 5784m)
 place: Krynica, Beskid Niski
 ---
 
