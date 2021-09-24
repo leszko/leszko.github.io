@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/conference/2021-10-22-voxxed-romania.jpg
-title: To be announced
+title: Distributed Locking and Java
 conference: Voxxed Days Romania
 conference-link: https://romania.voxxeddays.com/
 place: Romania (Online)
