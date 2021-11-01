@@ -7,7 +7,6 @@ conference-link: https://romania.voxxeddays.com/
 place: Romania (Online)
 tags: [Talk]
 event: https://romania.voxxeddays.com/
-upcoming: true
 ---
 
 Some say that there is no such thing as "distributed lock". Still, sooner or later, you'd encounter a problem that only one of your application replicas may execute the given operation at the given time. How to do it right and safely using Java?
