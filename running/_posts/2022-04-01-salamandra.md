@@ -12,3 +12,5 @@ place: Dzięgielów, Beskid Żywiecki
 
 ![Me](/assets/images/running/2022-04-01-salamandra-me.jpg)
 
+![Me](/assets/images/running/2022-04-01-salamandra-me-2.jpg)
+
