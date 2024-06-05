@@ -8,6 +8,7 @@ place: Mszana Dolna, Poland
 - Time: **16:01:27**
 - Position: **3/43**
 - Strava: [link](https://www.strava.com/activities/11497005864)
+- Results: [link](/assets/images/running/2024-05-25-ultra-trail-malopolska-results.pdf)
 
 ![Me](/assets/images/running/2024-05-25-ultra-trail-malopolska-me.jpg)
 
