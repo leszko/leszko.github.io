@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/running/2024-09-14-szczebel-cup.jpg
-title: Szczebel Cup<br/>(176km, +/- 2000m)
+title: Szczebel Cup<br/>(23km, +/- 2000m)
 place: Mszana Dolna
 ---
 
