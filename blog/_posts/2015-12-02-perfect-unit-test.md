@@ -1,4 +1,4 @@
----http://agileinaflash.blogspot.de/2009/02/first.html
+---
 layout: post
 image:  assets/images/blog/2015-12-02-perfect-unit-test.jpg
 title: Perfect Unit Test
