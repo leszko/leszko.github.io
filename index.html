@@ -1,43 +1,50 @@
 ---
-layout: default
+layout: page
 ---
+<img src="assets/images/avatars/photo.jpg" style="float: right; padding: 40px; padding-top: 0px; padding-left: 40px;" width="300" />
 
-<!-- Posts Index
-================================================== -->
-{% assign upcoming = false %}
+<p><div style="display:inline-block;"><b>Hi, I'm Rafał.</b></div></p>
 
-    {% for post in site.categories.conference %}
-        {% if post.upcoming == true %}
-            {% if upcoming != true %}
-            {% assign upcoming = true %}
-            <section class="featured-posts">
-                <div class="section-title">
-                    <h2><span>Upcoming Talks</span></h2>
-                </div>
-                <div class="row listrecent">
-            {% endif %}
-            
-            {% include conference_postbox.html %}
-        {% endif %}
-    {% endfor %}
+ 
+<p>
+<div style="display:inline-block;">I'm a <b>Staff Engineer</b> at Livepeer, specializing in <b>Golang</b>, <b>Blockchain</b>, <b>Kubernetes</b>, and <b>Cloud</b>.</div>
+<div style="display:inline-block;">I take projects from 0 to 1 - shaping ideas into solid, scalable, and well-maintainable systems.</div>
+<div style="display:inline-block;">Over the years, I've honed my skills at organizations like <b>Google</b>, <b>CERN</b>, and <b>Hazelcast</b>.</div>
+<div style="display:inline-block;">I enjoy sharing what I learn - I’ve spoken at over 70 tech conferences (including KubeCon, twice),</div>
+<div style="display:inline-block;"> written numerous blog posts, and authored a few books.</div>
+</p>
 
-    {% if upcoming == true %}
-</div>
-</section>
-    {% endif %}
+<p>
+<div style="display:inline-block;">On a more personal note, I love running and mountaineering.</div>
+</p>
 
+<i class="fab fa-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/RafalLeszko" class="article-post" style="margin-left: 10px;">@RafalLeszko</a></i>
+<i class="fab fa-github" style="margin-right: 20px;"><a target="_blank" href="https://github.com/leszko" class="article-post" style="margin-left: 10px;">leszko</a></i>
+<i class="fab fa-linkedin" style="margin-right: 20px;"><a target="_blank" href="https://www.linkedin.com/in/rafal-leszko/" class="article-post" style="margin-left: 10px;">rafal-leszko</a></i>
+<i class="fab fa-stack-overflow" style="margin-right: 20px;"><a target="_blank" href="https://stackoverflow.com/users/5515155/rafa%C5%82-leszko" class="article-post" style="margin-left: 10px;">rafał-leszko</a></i>
 
+<p><br/><br/><br/></p>
 
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>Talks</span></h2>
+        <h2><span>Running</span></h2>
     </div>
 
     <div class="row listrecent">
-        {% for post in site.categories.conference %}
-            {% if post.upcoming != true %}
-                {% include conference_postbox.html %}
-            {% endif %}
+        {% for post in site.categories.running %}
+            {% include hobby_postbox.html %}
+        {% endfor %}
+    </div>
+</section>
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Mountaineering</span></h2>
+    </div>
+
+    <div class="row listrecent">
+        {% for post in site.categories.mountaineering %}
+            {% include hobby_postbox.html %}
         {% endfor %}
     </div>
 </section>
