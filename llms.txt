@@ -1,0 +1,29 @@
+# Rafał Leszko
+
+> Lead AI Engineer at Daydream/Livepeer and lead developer on Scope — a real-time engine for interactive audio/video AI generation.
+
+Based in Krakow, Poland. Working on real-time generative AI systems for audio and video, including video diffusion models, LTX-2, and ACEStep. Prior experience at Google, CERN, and Hazelcast. Speaker at 70+ conferences including KubeCon (twice). Author of "Continuous Delivery with Docker and Jenkins" (Packt Publishing, 3 editions).
+
+## Key links
+
+- [Homepage](https://www.rafalleszko.com/): Personal website
+- [CV (PDF)](https://www.rafalleszko.com/cv/Rafal_Leszko_CV.pdf): Full professional CV
+- [CV (JSON Resume)](https://www.rafalleszko.com/cv/resume.json): Machine-readable CV in JSON Resume schema
+- [Scope](https://github.com/daydreamlive/scope): Real-time audio/video AI generation engine (lead developer)
+- [GitHub](https://github.com/leszko): Open-source work
+- [LinkedIn](https://www.linkedin.com/in/rafal-leszko/): Professional profile
+- [Blog](https://www.rafalleszko.com/blog): Technical writing
+- [Talks](https://www.rafalleszko.com/talks): 70+ conference talks including KubeCon (twice)
+- [Books](https://www.rafalleszko.com/books): Continuous Delivery with Docker and Jenkins
+
+## Current focus
+
+Real-time generative AI for interactive audio and video. On Scope: architecture, model research integration, and end-to-end performance work across pipelines like video diffusion, LTX-2, and ACEStep, running on NVIDIA RTX 4090/5090 (and H100/H200).
+
+## Technology
+
+Python, Go, PyTorch, CUDA, WebRTC, Diffusion Models, Real-time streaming, Low-latency systems, Kubernetes, Cloud-native infrastructure.
+
+## Location
+
+Krakow, Poland. Remote-first. EU timezone. Open to working with EU, UK, and US companies.

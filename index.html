@@ -3,48 +3,73 @@ layout: page
 ---
 <img src="assets/images/avatars/photo.jpg" style="float: right; padding: 40px; padding-top: 0px; padding-left: 40px;" width="300" />
 
-<p><div style="display:inline-block;"><b>Hi, I'm Rafał.</b></div></p>
+<p><b>Hi, I'm Rafał.</b></p>
 
- 
 <p>
-<div style="display:inline-block;">I'm a <b>Staff Engineer</b> at Livepeer, specializing in <b>Golang</b>, <b>Blockchain</b>, <b>Kubernetes</b>, and <b>Cloud</b>.</div>
-<div style="display:inline-block;">I take projects from 0 to 1 - shaping ideas into solid, scalable, and well-maintainable systems.</div>
-<div style="display:inline-block;">Over the years, I've honed my skills at organizations like <b>Google</b>, <b>CERN</b>, and <b>Hazelcast</b>.</div>
-<div style="display:inline-block;">I enjoy sharing what I learn - I’ve spoken at over 70 tech conferences (including KubeCon, twice),</div>
-<div style="display:inline-block;"> written numerous blog posts, and authored a few books.</div>
+I'm a <b>Lead AI Engineer</b> at Daydream/Livepeer and the lead developer on <a target="_blank" href="https://github.com/daydreamlive/scope"><b>Scope</b></a> — a real-time engine for interactive audio/video AI generation that runs pipelines like video diffusion, LTX-2, and ACEStep.
 </p>
 
 <p>
-<div style="display:inline-block;">On a more personal note, I love running and mountaineering.</div>
+I take projects from 0 to 1 — shaping research-stage ideas into solid, scalable systems. I have prior experience at <b>Google</b>, <b>CERN</b>, and <b>Hazelcast</b>. I enjoy sharing what I learn — I've spoken at over 70 tech conferences (including KubeCon twice), write blog posts, and authored a book.
 </p>
 
-<i class="fab fa-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/RafalLeszko" class="article-post" style="margin-left: 10px;">@RafalLeszko</a></i>
+<p>
+On a more personal note, I love running ultramarathons and mountaineering.
+</p>
+
+<p style="margin-top: 25px; margin-bottom: 25px;">
+<a target="_blank" href="/cv/Rafal_Leszko_CV.pdf" class="btn btn-outline-dark btn-sm" style="font-weight: 600;"><i class="far fa-file-pdf"></i>&nbsp;&nbsp;Download CV (PDF)</a>
+</p>
+
 <i class="fab fa-github" style="margin-right: 20px;"><a target="_blank" href="https://github.com/leszko" class="article-post" style="margin-left: 10px;">leszko</a></i>
 <i class="fab fa-linkedin" style="margin-right: 20px;"><a target="_blank" href="https://www.linkedin.com/in/rafal-leszko/" class="article-post" style="margin-left: 10px;">rafal-leszko</a></i>
+<i class="fab fa-x-twitter" style="margin-right: 20px;"><a target="_blank" href="https://twitter.com/RafalLeszko" class="article-post" style="margin-left: 10px;">@RafalLeszko</a></i>
 <i class="fab fa-stack-overflow" style="margin-right: 20px;"><a target="_blank" href="https://stackoverflow.com/users/5515155/rafa%C5%82-leszko" class="article-post" style="margin-left: 10px;">rafał-leszko</a></i>
 
-<p><br/><br/><br/></p>
-
-<section class="recent-posts">
-    <div class="section-title">
-        <h2><span>Running</span></h2>
-    </div>
-
-    <div class="row listrecent">
-        {% for post in site.categories.running %}
-            {% include hobby_postbox.html %}
-        {% endfor %}
-    </div>
-</section>
-
-<section class="recent-posts">
-    <div class="section-title">
-        <h2><span>Mountaineering</span></h2>
-    </div>
-
-    <div class="row listrecent">
-        {% for post in site.categories.mountaineering %}
-            {% include hobby_postbox.html %}
-        {% endfor %}
-    </div>
-</section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rafał Leszko",
+  "url": "https://www.rafalleszko.com/",
+  "image": "https://www.rafalleszko.com/assets/images/avatars/photo.jpg",
+  "jobTitle": "Lead AI Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Daydream / Livepeer"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Krakow",
+    "addressCountry": "PL"
+  },
+  "description": "Lead AI Engineer at Daydream/Livepeer and lead developer on Scope — a real-time engine for interactive audio/video AI generation that runs pipelines like video diffusion, LTX-2, and ACEStep. Prior experience at Google, CERN, and Hazelcast. Author of 'Continuous Delivery with Docker and Jenkins' and speaker at 70+ conferences including KubeCon (twice).",
+  "alumniOf": [
+    {"@type": "Organization", "name": "Google"},
+    {"@type": "Organization", "name": "Hazelcast"},
+    {"@type": "Organization", "name": "CERN"},
+    {"@type": "EducationalOrganization", "name": "AGH University of Science and Technology"}
+  ],
+  "knowsAbout": [
+    "Real-time Generative AI",
+    "Video Generation",
+    "Audio Generation",
+    "Video Diffusion Models",
+    "Interactive AI systems",
+    "WebRTC",
+    "Python",
+    "Go",
+    "PyTorch",
+    "CUDA",
+    "Kubernetes",
+    "Low-latency systems",
+    "Cloud infrastructure"
+  ],
+  "sameAs": [
+    "https://github.com/leszko",
+    "https://www.linkedin.com/in/rafal-leszko/",
+    "https://twitter.com/RafalLeszko",
+    "https://stackoverflow.com/users/5515155/rafa%C5%82-leszko"
+  ]
+}
+</script>

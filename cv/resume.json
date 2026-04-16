@@ -1,0 +1,230 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rafał Leszko",
+    "label": "Lead AI Engineer (Real-time Generative AI)",
+    "image": "https://www.rafalleszko.com/assets/images/avatars/photo.jpg",
+    "email": "rafal.leszko@gmail.com",
+    "url": "https://www.rafalleszko.com/",
+    "summary": "Lead AI Engineer at Daydream/Livepeer and the lead developer on Scope — a real-time engine for interactive audio/video AI generation, running pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Working across the stack on real-time generative AI systems: architecture, rapid prototyping, and high- and low-level development. Prior experience at Google, CERN, and Hazelcast. Speaker at 70+ conferences including KubeCon (twice). Author of 'Continuous Delivery with Docker and Jenkins'.",
+    "location": {
+      "city": "Krakow",
+      "countryCode": "PL",
+      "region": "Lesser Poland"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "leszko",
+        "url": "https://github.com/leszko"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rafal-leszko",
+        "url": "https://www.linkedin.com/in/rafal-leszko/"
+      },
+      {
+        "network": "Twitter",
+        "username": "RafalLeszko",
+        "url": "https://twitter.com/RafalLeszko"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "rafał-leszko",
+        "url": "https://stackoverflow.com/users/5515155/rafa%C5%82-leszko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Daydream / Livepeer",
+      "position": "Lead AI Engineer",
+      "location": "Remote",
+      "url": "https://github.com/daydreamlive/scope",
+      "startDate": "2021-11-01",
+      "summary": "Lead developer on Scope, a real-time engine for interactive audio/video AI generation. Own architecture, integrate new model research, and drive end-to-end performance. Scope runs pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Earlier at Livepeer: shipped core video infrastructure across Livepeer Node, Catalyst (decentralized media server), and Livepeer Studio. Progression: Go/Blockchain Engineer → Staff Engineer → Lead AI Engineer.",
+      "highlights": [
+        "Lead developer on Scope — real-time engine for interactive audio/video AI generation",
+        "Integrate new model research: video diffusion, LTX-2, ACEStep",
+        "Drive end-to-end performance on NVIDIA RTX 4090/5090 and H100/H200",
+        "Shipped core video infrastructure across Livepeer Node, Catalyst, Livepeer Studio"
+      ],
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "CUDA",
+        "Diffusion Models",
+        "Video Generation",
+        "Audio Generation",
+        "WebRTC",
+        "Go"
+      ]
+    },
+    {
+      "name": "Hazelcast",
+      "position": "Cloud-Native Tech Lead (previously Cloud Software Engineer)",
+      "location": "Remote",
+      "startDate": "2018-03-01",
+      "endDate": "2021-09-30",
+      "summary": "Built Hazelcast's cloud integrations: the Kubernetes Operator, Helm Chart, plugins (Kubernetes, AWS, GCP, Azure, Zookeeper), and Docker images. Promoted to Cloud-Native Tech Lead in 2020.",
+      "highlights": [
+        "Hazelcast Kubernetes Operator",
+        "Hazelcast Helm Chart",
+        "Cloud plugins for Kubernetes, AWS, GCP, Azure, Zookeeper",
+        "Hazelcast Docker images"
+      ],
+      "keywords": ["Go", "Kubernetes", "Java", "Helm", "AWS", "Azure", "GCP", "Docker"]
+    },
+    {
+      "name": "Google",
+      "position": "Senior Software Engineer",
+      "location": "Krakow, Poland",
+      "startDate": "2016-09-01",
+      "endDate": "2018-02-28",
+      "summary": "Designed and built a microservice-based project-tracking system.",
+      "keywords": ["Spanner", "GCP", "Java", "Pub/Sub", "Microservices", "CI/CD"]
+    },
+    {
+      "name": "Zooplus",
+      "position": "Lead Engineer",
+      "location": "Krakow, Poland",
+      "startDate": "2015-10-01",
+      "endDate": "2016-07-31",
+      "keywords": ["Java", "Spring Boot", "Hibernate", "Oracle", "MongoDB", "Mesos", "CI/CD"]
+    },
+    {
+      "name": "Luxoft for UBS",
+      "position": "Tech Lead",
+      "location": "Krakow, Poland",
+      "startDate": "2013-12-01",
+      "endDate": "2015-09-30",
+      "keywords": ["Big data", "Java", "Oracle PL/SQL", "Fitnesse"]
+    },
+    {
+      "name": "AGH University",
+      "position": "Java Developer",
+      "location": "Krakow, Poland",
+      "startDate": "2010-10-01",
+      "endDate": "2013-05-31",
+      "keywords": ["Distributed computing", "Eclipse RCP", "OSGi", "Java", "Web Services"]
+    },
+    {
+      "name": "CERN",
+      "position": "Software Engineer",
+      "location": "Geneva, Switzerland",
+      "startDate": "2009-07-01",
+      "endDate": "2012-04-30",
+      "summary": "LHC Data Visualization.",
+      "keywords": ["LHC Data Visualization", "Java", "Spring", "C++", "Oracle", "SQL"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "AGH University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "PhD candidate",
+      "startDate": "2012",
+      "endDate": "2014"
+    },
+    {
+      "institution": "AGH University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2006",
+      "endDate": "2012"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Continuous Delivery with Docker and Jenkins (Third Edition)",
+      "publisher": "Packt Publishing",
+      "releaseDate": "2022-08",
+      "url": "https://www.packtpub.com/product/continuous-delivery-with-docker-and-jenkins-third-edition/9781803237480",
+      "summary": "Explains the advantages of combining Jenkins and Docker to improve the continuous integration and delivery process."
+    },
+    {
+      "name": "Continuous Delivery with Docker and Jenkins (Second Edition)",
+      "publisher": "Packt Publishing",
+      "releaseDate": "2019-05",
+      "url": "https://www.packtpub.com/product/continuous-delivery-with-docker-and-jenkins-second-edition/9781838552183"
+    },
+    {
+      "name": "Continuous Delivery with Docker and Jenkins",
+      "publisher": "Packt Publishing",
+      "releaseDate": "2017-08",
+      "url": "https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins"
+    },
+    {
+      "name": "Verification Mechanism For Lightweight Component-based Environment Based On IoC Container",
+      "publisher": "AGH University of Science and Technology",
+      "releaseDate": "2014-04",
+      "url": "https://core.ac.uk/display/236278467"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Python", "Go", "Java", "C++", "Solidity"]
+    },
+    {
+      "name": "AI / ML",
+      "keywords": [
+        "PyTorch",
+        "CUDA",
+        "Diffusion Models",
+        "Video Generation",
+        "Audio Generation",
+        "Real-time Generative AI",
+        "LTX-2",
+        "ACEStep"
+      ]
+    },
+    {
+      "name": "Real-time Systems",
+      "keywords": [
+        "WebRTC",
+        "Low-latency streaming",
+        "Interactive AI systems",
+        "Spout",
+        "NDI",
+        "Syphon"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "Kubernetes",
+        "Helm",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "keywords": ["NVIDIA RTX 4090", "NVIDIA RTX 5090", "NVIDIA H100", "NVIDIA H200"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Speaker at 70+ software conferences",
+      "date": "2016-present",
+      "summary": "Presented at over 70 international software conferences including KubeCon (twice)."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": ["Ultramarathons"]
+    },
+    {
+      "name": "Mountaineering"
+    }
+  ],
+  "meta": {
+    "canonical": "https://www.rafalleszko.com/cv/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2026-04-15"
+  }
+}
