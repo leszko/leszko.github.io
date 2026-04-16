@@ -4,7 +4,6 @@ title: Talk Videos
 permalink: /videos
 ---
 
-https://www.youtube.com/watch?v=TT_VpYwrf6s
 #### Realtime Video AI with Diffusion Models
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TT_VpYwrf6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
