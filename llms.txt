@@ -9,6 +9,7 @@ Based in Krakow, Poland. Working on real-time generative AI systems for audio an
 - [Homepage](https://www.rafalleszko.com/): Personal website
 - [CV (PDF)](https://www.rafalleszko.com/cv/Rafal_Leszko_CV.pdf): Full professional CV
 - [CV (JSON Resume)](https://www.rafalleszko.com/cv/resume.json): Machine-readable CV in JSON Resume schema
+- [Portfolio](https://www.rafalleszko.com/portfolio): Selected projects (Scope, go-livepeer, Catalyst)
 - [Scope](https://github.com/daydreamlive/scope): Real-time audio/video AI generation engine (lead developer)
 - [GitHub](https://github.com/leszko): Open-source work
 - [LinkedIn](https://www.linkedin.com/in/rafal-leszko/): Professional profile
