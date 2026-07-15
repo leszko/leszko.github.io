@@ -1,3 +1,6 @@
+# LaTeX source (kept in Dropbox, not published)
+*.tex
+
 # LaTeX build artifacts
 *.aux
 *.log

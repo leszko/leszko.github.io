@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Rafał Leszko",
-    "label": "Lead AI Engineer (Real-time Generative AI)",
+    "label": "Staff AI / Backend Engineer (Generative AI)",
     "image": "https://www.rafalleszko.com/assets/images/avatars/photo.jpg",
     "email": "rafal.leszko@gmail.com",
     "url": "https://www.rafalleszko.com/",
-    "summary": "Lead AI Engineer at Daydream/Livepeer and the lead developer on Scope — a real-time engine for interactive audio/video AI generation, running pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Working across the stack on real-time generative AI systems: architecture, rapid prototyping, and high- and low-level development. Prior experience at Google, CERN, and Hazelcast. Speaker at 70+ conferences including KubeCon (twice). Author of 'Continuous Delivery with Docker and Jenkins'.",
+    "summary": "Staff AI / Backend Engineer at Daydream/Livepeer and the lead developer on Scope — a real-time engine for interactive audio/video AI generation, running pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Owns Scope end to end: backend services and REST APIs, async task orchestration, WebRTC streaming, and the TypeScript frontend. Earlier at Livepeer built the Studio video-streaming API platform (TypeScript, Postgres) and on-chain credit/payment systems on Arbitrum. Codes daily in Python, Go, and TypeScript, with prior experience at Hazelcast, Google, and CERN. Speaker at 70+ conferences including KubeCon (twice). Author of 'Continuous Delivery with Docker and Jenkins'.",
     "location": {
       "city": "Krakow",
       "countryCode": "PL",
@@ -38,26 +38,26 @@
   "work": [
     {
       "name": "Daydream / Livepeer",
-      "position": "Lead AI Engineer",
+      "position": "Staff AI Engineer",
       "location": "Remote",
       "url": "https://github.com/daydreamlive/scope",
       "startDate": "2021-11-01",
-      "summary": "Lead developer on Scope, a real-time engine for interactive audio/video AI generation. Own architecture, integrate new model research, and drive end-to-end performance. Scope runs pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Earlier at Livepeer: shipped core video infrastructure across Livepeer Node, Catalyst (decentralized media server), and Livepeer Studio. Progression: Go/Blockchain Engineer → Staff Engineer → Lead AI Engineer.",
+      "summary": "Lead developer on Scope, a real-time engine for interactive audio/video AI generation. Own Scope end to end: architecture, backend services and REST APIs, async task orchestration, WebRTC streaming, and the TypeScript frontend. Integrate new model research and drive end-to-end performance. Scope runs pipelines like video diffusion, LTX-2, and ACEStep on NVIDIA RTX 4090/5090 (and H100/H200). Earlier at Livepeer: shipped core video infrastructure across Livepeer Node, Catalyst, and Livepeer Studio. Progression: Go/Blockchain Engineer → Staff AI Engineer.",
       "highlights": [
         "Lead developer on Scope — real-time engine for interactive audio/video AI generation",
+        "Own Scope end to end: backend services, REST APIs, async task orchestration, WebRTC streaming, TypeScript frontend",
         "Integrate new model research: video diffusion, LTX-2, ACEStep",
         "Drive end-to-end performance on NVIDIA RTX 4090/5090 and H100/H200",
         "Shipped core video infrastructure across Livepeer Node, Catalyst, Livepeer Studio"
       ],
       "keywords": [
         "Python",
-        "PyTorch",
-        "CUDA",
-        "Diffusion Models",
-        "Video Generation",
-        "Audio Generation",
+        "Go",
+        "TypeScript",
+        "REST APIs",
         "WebRTC",
-        "Go"
+        "PyTorch",
+        "CUDA"
       ]
     },
     {

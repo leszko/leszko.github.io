@@ -1,6 +1,6 @@
 # Rafał Leszko
 
-> Lead AI Engineer at Daydream/Livepeer and lead developer on Scope — a real-time engine for interactive audio/video AI generation.
+> Staff AI / Backend Engineer at Daydream/Livepeer and lead developer on Scope — a real-time engine for interactive audio/video AI generation.
 
 Based in Krakow, Poland. Working on real-time generative AI systems for audio and video, including video diffusion models, LTX-2, and ACEStep. Prior experience at Google, CERN, and Hazelcast. Speaker at 70+ conferences including KubeCon (twice). Author of "Continuous Delivery with Docker and Jenkins" (Packt Publishing, 3 editions).
 
